@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishirvarun" alt="shishirvarun" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/varunshishir7" target="blank"><img src="https://img.shields.io/twitter/follow/varunshishir7?logo=twitter&style=for-the-badge" alt="varunshishir7" /></a> </p>
 
 - 🔭 I’m currently working on [Sales Dashboard](https://github.com/shishirvarun/Sales-Dashboard-Tableau-.git)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shishirvarun](https://github.com/shishirvarun)
 
@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/varunshishir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunshishir7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shishir varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir varun" height="30" width="40" /></a>
 <a href="https://kaggle.com/shishir varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shishir varun" height="30" width="40" /></a>
 <a href="https://instagram.com/shishir.varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shishir.varun" height="30" width="40" /></a>
