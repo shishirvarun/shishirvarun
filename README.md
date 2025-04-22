@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/varunshishir7" target="blank"><img src="https://img.shields.io/twitter/follow/varunshishir7?logo=twitter&style=for-the-badge" alt="varunshishir7" /></a> </p>
 
-- 🔭 I’m currently working on [Sales Dashboard](https://github.com/shishirvarun/Sales-Dashboard-Tableau-.git)
+- 🔭 I’m currently working on [FedEx SCMS](https://github.com/shishirvarun/FedEx-Supply-Chain-Management-System.git)
 
 - 🌱 I’m currently learning **Data Science**
 
